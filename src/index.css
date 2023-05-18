@@ -16,7 +16,7 @@
 }
 
 .navbar h1{
-  color: crimson;
+  color: royalblue;
 }
 
 .navbar .links{
@@ -30,7 +30,7 @@
 }
 
 .navbar a:hover{
-  color: crimson;
+  color: royalblue;
 }
 
 .content{
@@ -53,29 +53,17 @@
 
 .blog-preview h2{
   font-size: 20px;
-  color: crimson;
+  color: royalblue;
   margin-bottom: 8px;
 }
 
-.delete-button{
-  color: crimson;
-  padding: 10px;
-  margin: 7px 0px 0px 0px;
-  border-radius: 6px;
-  border: 0;
-}
-
-.delete-button:hover{
-  color: white;
-  background-color: crimson;
-}
 
 .blog-preview a{
   text-decoration: none;
 }
 
 .blog-details h2{
-  color: crimson;
+  color: royalblue;
   font-size: 20px;
   margin-bottom: 10px;
 }
@@ -85,7 +73,7 @@
 }
 
 .blog-details button{
-  background:crimson;
+  background:royalblue;
   color: #fff;
   border: 0;
   padding: 8px;
@@ -105,7 +93,7 @@
 }
 
 .create h2{
-  color: crimson;
+  color: royalblue;
   font-size: 20px;
   margin-bottom: 30px;
 }
@@ -121,7 +109,7 @@
 
 .create button{
   margin-top: 10px;
-  background-color: crimson;
+  background-color: royalblue;
   color: white;
   border:0;
   padding: 8px;
